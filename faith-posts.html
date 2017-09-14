@@ -3,7 +3,7 @@ layout: default
 ---
 <!-- Posts -->
 <ul id="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   {% if post.category == 'faith' %}
   <li class="post">
     <h2>

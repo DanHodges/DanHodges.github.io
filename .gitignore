@@ -2,6 +2,6 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-	.idea
-	monochrome-master.iml
+.idea/
+monochrome-master.iml
 

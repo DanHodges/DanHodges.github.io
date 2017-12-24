@@ -1,16 +1,10 @@
 {
   "data": [
     {
-      "date": "12-1-18",
-      "topic": "foo",
+      "date": "2017-12-23",
+      "topic": "personal site",
       "category": "other",
-      "minutes": 45
-    },
-    {
-      "date": "12-1-19",
-      "topic": "bar",
-      "category": "other",
-      "minutes": 15
+      "minutes": 90
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "name": "DanHodges.github.io",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:DanHodges/DanHodges.github.io.git",
+  "author": "DanHodges <dhdgs690@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.9.2"
+  }
+}

@@ -9,9 +9,9 @@ My name is Dan Hodges. This is where I post.
 #### From most to least realistic
 - Improve my markdown skills.
 - Clarify my own thoughts by externally processing.
-- Engage with the developer community, in Nashville and beyond.
-- Post social media esq things for family and friends.
 - Memorialize the process of learning.
+- Post social media esq things for family and friends.
+- Engage with the developer community, in Nashville and beyond.
 ### Contact
 
 Here I am on [Github.](https://github.com/danhodges/)  

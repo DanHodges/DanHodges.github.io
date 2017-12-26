@@ -7,7 +7,6 @@ description: About this blog.
 My name is Dan Hodges. This is where I post.
 ## Intentions
 #### From most to least realistic
-- Improve my markdown skills.
 - Clarify my own thoughts by externally processing.
 - Memorialize the process of learning.
 - Post social media esq things for family and friends.

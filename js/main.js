@@ -50,8 +50,8 @@ var createElement = preactHyperscript.createElement,
   tr = preactHyperscript.tr,
   td = preactHyperscript.td;
 
-var TodayILearned = props =>
-  div([
+function TodayILearned(props) {
+  return div([
     h2(".bold", "today I learned"),
     p(
       {
@@ -76,33 +76,33 @@ var TodayILearned = props =>
       [
         thead([tr([td("Date"), td("Topic"), td("Category"), td("Minutes")])]),
         tbody(
-          props.data.map(item =>
-            tr([
+          props.data.map(function(item) {
+            return tr([
               td(item.date),
               td(item.topic),
               td(item.category),
               td(item.minutes)
-            ])
-          )
+            ]);
+          })
         )
       ]
     )
   ]);
+}
 
-var loadJSON = (file, callback) => {
+function loadJSON(file, callback) {
   var xobj = new XMLHttpRequest();
   xobj.overrideMimeType("application/json");
-  xobj.open("GET", file, true); // Replace 'my_data' with the path to your file
+  xobj.open("GET", file, true);
   xobj.onreadystatechange = function() {
     if (xobj.readyState == 4 && xobj.status == "200") {
-      // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
       callback(xobj.responseText);
     }
   };
   xobj.send(null);
-};
+}
 
-(function load() {
+(function render() {
   loadJSON("db.json", function(response) {
     var json = JSON.parse(response);
     window.preact.render(

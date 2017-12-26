@@ -3,8 +3,19 @@
     {
       "date": "2017-12-23",
       "topic": "personal site",
-      "category": "other",
+      "categories": [
+        "other"
+      ],
       "minutes": 90
+    },
+    {
+      "date": "today",
+      "topic": "all things",
+      "minutes": "90",
+      "categories": [
+        "Programming",
+        "Algorithms and Data Structures"
+      ]
     }
   ]
 }

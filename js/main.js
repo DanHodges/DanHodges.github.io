@@ -80,7 +80,7 @@ function TodayILearned(props) {
             return tr([
               td(item.date),
               td(item.topic),
-              td(item.category),
+              td(item.categories.join(', ')),
               td(item.minutes)
             ]);
           })

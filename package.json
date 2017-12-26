@@ -6,6 +6,8 @@
   "author": "DanHodges <dhdgs690@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "inquirer": "^4.0.1",
+    "lowdb": "^1.0.0",
     "prettier": "^1.9.2"
   }
 }

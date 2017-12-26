@@ -62,7 +62,7 @@ function TodayILearned(props) {
           fontStyle: "italic"
         }
       },
-      "A list of things I've been reading/watching/hacking on"
+      "A list of things I've been reading/watching/hacking on outside of work."
     ),
     table(
       {

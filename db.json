@@ -1,20 +1,11 @@
 {
   "data": [
     {
-      "date": "2017-12-23",
-      "topic": "personal site",
+      "topic": "personal site/TIL tracker",
+      "minutes": "120",
+      "date": "Tuesday, Dec 12, 2017, 6:30 PM",
       "categories": [
         "other"
-      ],
-      "minutes": 90
-    },
-    {
-      "date": "today",
-      "topic": "all things",
-      "minutes": "90",
-      "categories": [
-        "Programming",
-        "Algorithms and Data Structures"
       ]
     }
   ]

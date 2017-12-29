@@ -2,13 +2,13 @@
 title: The Tarmak method- my 2018 Resolution
 description: The Tarmak method- my 2018 Resolution
 header: The Tarmak method- my 2018 Resolution
-category: life code
+category: code
 ---
 I've been writing software professionally since January 2016- nearly two years from the time of this writing. Throughout this time I've observed several patterns in how I spend my time learning. Though focus of this article is my professional development, the scope of these patterns is in no way limited to that domain.
 
 Several weeks ago I decided to learn and use the Colemak keyboard layout. The reason is obvious if you've ever stopped to think about how inefficient QWERTY is. So I dove in. I typed about 10 wpm for several hours then quit. Learning was too painful.
 
-Later I discovered a transitional layout system called Tarmak. Tarmak is a series of 5 keyboard layouts. Each layout shifts 3 keys away from their default QWERTY location. The final layout is full Colemak. The typist is able to slowly learn Colemak without ever dropping below 30ish WPM by minimizing change.
+Later I discovered a transitional layout system called [Tarmak](https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/). Tarmak is a series of 5 keyboard layouts. Each layout shifts 3 keys away from their default QWERTY location. The final layout is full Colemak. The typist is able to slowly learn Colemak without ever dropping below 30ish WPM by minimizing change.
 
 I'm currently on layout 2 of 5. Just 6 keys have moved from their QWERTY location, but I already feel much more efficient, as letters E and T have shifted to the home row. I should be typing full Colemak by mid-march. If things go more slowly, however, I've lost nothing. It's a win-win.
 
@@ -24,7 +24,7 @@ Sure, Haskell may be the best pure FP language, but I'm pretty good at JavaScrip
 
 There are dozens of things I want to play with in 2018- RxJS, Rust with WASM, Reason ML- but I'm going to try and resist doing that in favor of learning language agnostic computer science principals. Outside of a deep dive into Scala (close to what I know with immediate day job application), I'm going to actually challenge myself _not_ to spend time on languages, frameworks and tooling in favor of learning CS principles.
 
-With https://teachyourselfcs.com/ as my road map, I intend to invest time into clarifying my understanding of CS principals and ideas, rather than specific implementations of those ideas. Hopefully, when it comes time to learn the new hotness, I'll have the mental furniture in place to accomplish that mission more effectively. More on that later.
+With [teachyourselfcs](https://teachyourselfcs.com/) as my road map, I intend to invest time into clarifying my understanding of CS principals and ideas, rather than specific implementations of those ideas. Hopefully, when it comes time to learn the new hotness, I'll have the mental furniture in place to accomplish that mission more effectively. More on that later.
 
 -Dan
 

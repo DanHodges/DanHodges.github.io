@@ -16,7 +16,7 @@ const COMPUTER_NETWORKING = "Computer Networking";
 const DATABASES = "Databases";
 const LANGUAGES_AND_COMPILERS = "Languages and Compilers";
 const DISTRIBUTED_SYSTEMS = "Distributed Systems";
-const OTHER = "other";
+const OTHER = "Other";
 
 const options = {
   PROGRAMMING,
@@ -56,21 +56,21 @@ const questions = [
   }
 ];
 
-inquirer.prompt(questions).then(function({ topic, date, categories, minutes }) {
+inquirer.prompt(questions).then(({ topic, date, categories, minutes }) => {
   db
     .get("data")
     .push({
       topic,
+      minutes,
       date: date.toLocaleString("en-us", {
-        weekday: "long",
+        hour12: false,
         year: "numeric",
-        month: "short",
+        month: "numeric",
         day: "numeric",
         hour: "2-digit",
         minute: "2-digit"
       }),
-      categories: categories.map(key => options[key]),
-      minutes
+      categories: categories.map(key => options[key])
     })
     .write();
 });

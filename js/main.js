@@ -3,7 +3,6 @@ var reverse = document.getElementById("nav-menu-left");
 
 var icon = normal !== null ? normal : reverse;
 
-// Toggle the "menu-open" % "menu-opn-left" classes
 function toggle() {
   var navRight = document.getElementById("nav");
   var navLeft = document.getElementById("nav-left");
@@ -27,18 +26,7 @@ function toggle() {
   }
 }
 
-// Ensures backward compatibility with IE old versions
-function menuClick() {
-  if (document.addEventListener && icon !== null) {
-    icon.addEventListener("click", toggle);
-  } else if (document.attachEvent && icon !== null) {
-    icon.attachEvent("onclick", toggle);
-  } else {
-    return;
-  }
-}
-
-menuClick();
+icon.addEventListener("click", toggle);
 
 var createElement = preactHyperscript.createElement,
   div = preactHyperscript.div,
@@ -50,7 +38,7 @@ var createElement = preactHyperscript.createElement,
   tr = preactHyperscript.tr,
   td = preactHyperscript.td;
 
-function TodayILearned(props) {
+function TILTable(props) {
   return div([
     h2(".bold", "today I learned"),
     p(
@@ -62,7 +50,7 @@ function TodayILearned(props) {
           fontStyle: "italic"
         }
       },
-      "A list of things I've been reading/watching/hacking on outside of work."
+      "A list of things I've been reading/watching/hacking on outside of work"
     ),
     table(
       {
@@ -80,7 +68,7 @@ function TodayILearned(props) {
             return tr([
               td(item.date),
               td(item.topic),
-              td(item.categories.join(', ')),
+              td(item.categories.join(", ")),
               td(item.minutes)
             ]);
           })
@@ -90,24 +78,19 @@ function TodayILearned(props) {
   ]);
 }
 
-function loadJSON(file, callback) {
-  var xobj = new XMLHttpRequest();
-  xobj.overrideMimeType("application/json");
-  xobj.open("GET", file, true);
-  xobj.onreadystatechange = function() {
-    if (xobj.readyState == 4 && xobj.status == "200") {
-      callback(xobj.responseText);
+(function() {
+  var x = new XMLHttpRequest();
+  x.overrideMimeType("application/json");
+  x.open("GET", "db.json", true);
+  x.onreadystatechange = function() {
+    if (x.readyState == 4 && x.status == "200") {
+      window.preact.render(
+        createElement(TILTable, {
+          data: JSON.parse(x.responseText).data
+        }),
+        document.getElementById("til")
+      );
     }
   };
-  xobj.send(null);
-}
-
-(function render() {
-  loadJSON("db.json", function(response) {
-    var json = JSON.parse(response);
-    window.preact.render(
-      createElement(TodayILearned, { data: json.data }),
-      document.getElementById("til")
-    );
-  });
+  x.send(null);
 })();

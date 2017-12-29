@@ -21,7 +21,7 @@ If I'm honest with myself, has the amount of time I've spent 'Hello, world'ing w
 Probably not.
 
 Functional programming is in style and I want to improve my FP skills.
-Sure, Haskell may be the best pure FP language, but I'm pretty good at JavaScript, and Scala is pretty close to JS syntactically. I can even compile it to JS and build react apps with it (something I'm good at), minimizing the mental gap of learning a new language. That's the Tarmak approach, and I'm willing to see how it can save my time and energy in 2018.
+Sure, Haskell may be the best pure FP language, but I'm pretty good at JavaScript, and Scala is pretty close to JS syntactically. I can even compile it to JS and build react apps with it (something I'm good at), minimizing the mental gap of learning a new language. That's the Tarmak approach, and I'm excited to see how it can save my time and energy in 2018.
 
 There are dozens of things I want to play with in 2018- RxJS, Rust with WASM, Reason ML go name a few- but I'm going to try and resist playing with them. Outside of a deep dive into Scala (close to what I know with immediate day job application), I'm going to challenge myself _not_ to spend time on languages, frameworks, and tooling in favor investing in learning CS principles.
 

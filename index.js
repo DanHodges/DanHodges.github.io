@@ -18,6 +18,8 @@ const LANGUAGES_AND_COMPILERS = "Languages and Compilers";
 const DISTRIBUTED_SYSTEMS = "Distributed Systems";
 const OTHER = "Other";
 
+const data = db.get("data");
+
 const options = {
   PROGRAMMING,
   COMPUTER_ARCHITECTURE,
@@ -31,6 +33,7 @@ const options = {
   OTHER
 };
 
+
 const questions = [
   {
     type: "datetime",
@@ -41,7 +44,8 @@ const questions = [
   {
     type: "input",
     message: "What did you learn?",
-    name: "topic"
+    name: "topic",
+    initial: data[data.length - 1].topic
   },
   {
     type: "checkbox",
@@ -57,9 +61,7 @@ const questions = [
 ];
 
 inquirer.prompt(questions).then(({ topic, date, categories, minutes }) => {
-  db
-    .get("data")
-    .push({
+  data.push({
       topic,
       minutes,
       date: date.toLocaleString("en-us", {

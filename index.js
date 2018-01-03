@@ -19,6 +19,7 @@ const DISTRIBUTED_SYSTEMS = "Distributed Systems";
 const OTHER = "Other";
 
 const data = db.get("data");
+const lastTopic = data.value()[data.value().length - 1].topic;
 
 const options = {
   PROGRAMMING,
@@ -33,7 +34,6 @@ const options = {
   OTHER
 };
 
-
 const questions = [
   {
     type: "datetime",
@@ -43,9 +43,8 @@ const questions = [
   },
   {
     type: "input",
-    message: "What did you learn?",
+    message: `What did you learn (${lastTopic})?`,
     name: "topic",
-    initial: data[data.length - 1].topic
   },
   {
     type: "checkbox",
@@ -62,7 +61,7 @@ const questions = [
 
 inquirer.prompt(questions).then(({ topic, date, categories, minutes }) => {
   data.push({
-      topic,
+      topic: topic.length ? topic : lastTopic,
       minutes,
       date: date.toLocaleString("en-us", {
         hour12: false,

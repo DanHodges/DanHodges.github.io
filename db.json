@@ -48,6 +48,14 @@
         "Programming",
         "Math for CS"
       ]
+    },
+    {
+      "topic": "Odersky FP in Scala",
+      "minutes": "60",
+      "date": "1/6/2018, 22:04",
+      "categories": [
+        "Programming"
+      ]
     }
   ]
 }

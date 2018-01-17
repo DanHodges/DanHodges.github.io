@@ -64,6 +64,14 @@
       "categories": [
         "Programming"
       ]
+    },
+    {
+      "topic": "Odersky/SICP",
+      "minutes": "30",
+      "date": "1/17/2018, 09:00",
+      "categories": [
+        "Programming"
+      ]
     }
   ]
 }

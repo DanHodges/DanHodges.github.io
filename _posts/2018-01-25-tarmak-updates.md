@@ -18,7 +18,7 @@ After a week or so, most of that has come back to where I'm consistently 35-40 w
 So far I'm very happy to have put in the effort of switching. 
 Colemak comes installed by default on OSX and most other OSes, so outside of having funky key legends (which you should't be looking at anyway) it's no less convenient that qwerty. 
 
-Here's a couple stats from colemak.com
+Here's a couple stats from colemak.com on the benefits of qwerty-
 - Your fingers on QWERTY move 2.2x more than on Colemak. 
 - QWERTY has 16x more same hand row jumping than Colemak.
 - There are 35x more words you can type using only the home row on Colemak.

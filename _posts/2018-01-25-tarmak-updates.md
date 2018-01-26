@@ -33,7 +33,7 @@ e.g. "ceded" on QWERTY.
 I was sold on the stats before I started switching over, but the feel afterwords is truly incredible.  
 You fingers feel like they never leave the home-row.
 
-As much as I'm a fan of ergonomic, slit keyboards such as the ergodox, I think that Colemak will actually diminish the need for that.  
+As much as I'm a fan of ergonomic, split keyboards such as the ergodox, I think that Colemak will actually diminish the need for that.  
 It's too early to tell as I'm still adjusting, but I'm actually even enjoying typing on my macbook. Staying on the homerow feels _great_.  
 
 I'd encourage anyone to try Colemak. IMO, it's clearly the best widely available pre-installed layout.

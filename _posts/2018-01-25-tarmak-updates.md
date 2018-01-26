@@ -13,7 +13,11 @@ Up until stage three I maintained about 30WPM with decent accuracy.
 Unfortunately, I didn't have the patience to endure another transitional layout.
 
 After jumping from Tarmak #3 to Colemak, my speed went down to about 26WPM on an average of 3 typeracer tests.
-After a week or so, most of that has come back to where I'm consistently 35-40 with > 95% accuracy.
+After a week or so, most of that has come back to where I'm consistently 35-40 with > 95% accuracy.  
+
+The worst part, however, is pair programming. Just like class piano in college, whenever folks watch me at the keyboard,
+my speed and accuracy go to about fifty percent.
+That's just nerves though, and I'm sure the whole "stage fright" is mostly in my head and will go away with time.
 
 So far I'm very happy to have put in the effort of switching. 
 Colemak comes installed by default on OSX and most other OSes, so outside of having funky key legends (which you should't be looking at anyway) it's no less convenient that qwerty. 

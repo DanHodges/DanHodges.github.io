@@ -80,6 +80,14 @@
       "categories": [
         "Programming"
       ]
+    },
+    {
+      "topic": "SICP",
+      "minutes": "60",
+      "date": "1/25/2018, 18:30",
+      "categories": [
+        "Programming"
+      ]
     }
   ]
 }

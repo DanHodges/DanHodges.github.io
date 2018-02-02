@@ -96,6 +96,30 @@
       "categories": [
         "Programming"
       ]
+    },
+    {
+      "topic": "SICP",
+      "minutes": "60",
+      "date": "1/30/2018, 08:20",
+      "categories": [
+        "Programming"
+      ]
+    },
+    {
+      "topic": "SICP",
+      "minutes": "75",
+      "date": "1/31/2018, 08:15",
+      "categories": [
+        "Programming"
+      ]
+    },
+    {
+      "topic": "SICP",
+      "minutes": "120",
+      "date": "2/1/2018, 08:35",
+      "categories": [
+        "Programming"
+      ]
     }
   ]
 }

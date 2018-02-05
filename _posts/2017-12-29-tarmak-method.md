@@ -17,12 +17,6 @@ I'll write a subsequent post about this process at a later date, but the revelat
 
 Over the past couple years I've created 'Hello, world' apps in no less than 2 dozen languages and frameworks. Like learning Colemak, I'll read about something new and shinny, something that's the king of the ___ hill, create the "hello, world" app for said shinny thing, then go to implement something meaningful only to give up 6 hours later because I can't figure out how to fetch data from a REST api (this is just an example- fetching JSON in Haskell is NOT the point).
 
-If I'm honest with myself, has the amount of time I've spent 'Hello, world'ing with Clojure, Go, and Haskell _actually provided any language agnostic takeaway value?_
-Probably not.
-
-Functional programming is in style and I want to improve my FP skills.
-Sure, Haskell may be the best pure FP language, but I'm pretty good at JavaScript, and Scala is pretty close to JS syntactically. I can even compile it to JS and build react apps with it (something I'm good at), minimizing the mental gap of learning a new language. That's the Tarmak approach, and I'm excited to see how it can save my time and energy in 2018.
-
 There are dozens of things I want to play with in 2018- RxJS, Rust with WASM, Reason ML go name a few- but I'm going to try and resist playing with them. Outside of a deep dive into Scala (close to what I know with immediate day job application), I'm going to challenge myself _not_ to spend time on languages, frameworks, and tooling in favor investing in learning CS principles.
 
 With [teachyourselfcs](https://teachyourselfcs.com/) as my road map, I intend to invest time into clarifying my understanding of CS principals and ideas, rather than specific implementations of those ideas. Hopefully, when it comes time to learn the new hotness, I'll have the mental furniture in place to accomplish that mission more effectively. More on that later.

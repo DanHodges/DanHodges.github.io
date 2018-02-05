@@ -3,7 +3,7 @@ title: Tarmak Updates
 description: Tarmak Updates
 header: Tarmak Updates- Full Colemak
 categories: [code, life]
-published: false
+published: true
 ---
 I'm happy to say that I've progressed beyond Tarmak to full Colemak.
 The learning progression went well. I used the transitional layouts for the first three steps.

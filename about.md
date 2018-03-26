@@ -13,14 +13,13 @@ My name is Dan Hodges. This is where I post.
 - Engage with the developer community, in Nashville and beyond.
 ### Contact
 
-Here I am on [Github.](https://github.com/danhodges/)  
-On [Twitter.](https://twitter.com/_DanHodges)
+Here I am on [Github.](https://github.com/danhodges/)
 
 ### Cool links
 Learn Colemak with[Tarmak](https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/)  
 Pretty ebook version of the Wizard Book[SICP](http://sarabander.github.io/sicp/)  
 and a specific version of scheme that goes along with it-[SICP Scheme](http://docs.racket-lang.org/sicp-manual/) 
--for use with[DrRacket](https://racket-lang.org/).  
+-for use with[Racket](https://racket-lang.org/). 
 The folks at Bradfield CS have curated an awesome list to[Teach yourself CS](https://teachyourselfcs.com/). 
 
 

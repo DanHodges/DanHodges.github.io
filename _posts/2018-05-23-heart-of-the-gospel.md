@@ -3,20 +3,20 @@ title: The Core of the Gospel
 description: The Core of the Gospel
 header: What is the Core of the Gospel?
 categories: [faith]
-published: false
+published: true
 ---
-##What is the core of the gospel?
+## The core of the gospel and how we've missed it
 
-####The core of the gospel is that-
+#### The core of the gospel is that-
 
-###### All mankind has died with Christ, destroying the cancerous spiritual that turned humanity away from God.  
+1. ###### All mankind has died with Christ, destroying the cancerous spiritual condition that turned humanity away from God.  
 
-###### All mankind has been resurrected with Christ, giving them new life, free from slavery to sin, and the natural outworking of sin, death.  
+2. ###### All mankind has resurrected with Christ, giving them new life, free from slavery to sin and the natural outworking of sin, death.  
 
-###### All mankind has ascended with Christ to the right hand of the Father, including them in the life of the Trinity and giving them the gift of the Holy Spirit.  
+3. ###### All mankind has ascended with Christ to the right hand of the Father, including them in the life of the Trinity and giving them the gift of the Holy Spirit.  
 
 This is the the good news that the apostle Paul preached.  
-Here's a small samply of verses that illustrate that point.
+Here's a small sample of verses that illustrate that point.
 
 Romans 5-
 Christ's act of righteousness is as universal as Adam's sin.
@@ -60,19 +60,19 @@ All men have been Crucified with Christ-
  We implore you on behalf of Christ, be reconciled to God.
  ```
 
-####The gospel isn't the news that it's possible to invite Jesus into your life.
-####The gospel is the announcement that Jesus has already included you into his life.
+#### The gospel isn't the news that it's possible to invite Jesus into your life.
+#### The gospel is the announcement that Jesus has already included you into his life.
 
-As you begin to trust this message and you will experience healing in your soul.  
+As you begin to trust this message you will experience healing in your soul.  
 You will grow to know Jesus more intimately, and you will realize he's been with you your entire life.  
-You will begin to see Jesus' Father the way Jesus sees his father- as the Loving Father Jesus abides with.  
+You will begin to see and experience Father God the way Jesus sees his Father.  
 You will learn to walk with the Holy Spirit, to recognize her presence and hear her voice.  
 
-As you begin to see yourself the way the Father, Son, and Spirit see you, you will be changed.  
+You will see yourself the way the Father, Son, and Spirit see you, and you will be changed.  
 Love will transform your life. This will impact your relationships, starting with your direct family.  
-In the Holy Spirit's timing, this may even overflow to your community, your country, or the entire world.  
+In the Holy Spirit's timing, this will overflow to your community, your country, and to the ends of the earth.  
 
-####The bible refers to this transformative healing journey as salvation.
+#### The bible refers to this transformative healing journey as salvation.
 
 ##### Unfortunately, the salvation most Western Christians grew up with is a different thing entirely.  
 The western psuedo-gospel notion of salvation has to do with bridging the separation between yourself and God.  
@@ -83,34 +83,33 @@ If you follow the prescribed formula (choose wisely- 30,000+ denominations can't
 
 God will never really be pleased with you because of your sin, but there are steps you can take to lessen his disgust.  
 
-If you pull Jesus into your life and keep him around, God's punishment upon Jesus will fill his punishment quota (God can't just excuse sin, it must be punished), and he won't have to punish you with eternal flames.  
+If you pull Jesus into your life and keep him around, God's punishment upon Jesus will fill his punishment quota, and he won't have to punish you with eternal flames.  
 
 ##### Notice the assumptions within this model-  
 1. You are separated from God because of sin- an offensive action that turned God away from us.
 
 2. Jesus doesn't really act like God or reveal the Father's intentions. Jesus tolerates sin, but the Father is more "Holy" and can't look upon sin or forgive it without punishing someone.
 
-3. Salvation is being spared from punishment. You are "saved" by a work. Within evangelical circles this work (at least regarding initiation is to "believe".
+3. Salvation is being spared from punishment. You are "saved" by a work. Within evangelical circles this work (at least regarding initiation) is to "believe".
 
 This contrasts heavily with Paul's gospel where   
 1. There is no separation- God has always been present with us.  
-The cancerous condition of sin turned _us_ away from God (Col 1:21- "And although you were formerly alienated and hostile in mind, engaged in evil deeds".  
+The cancerous condition of sin turned _us_ away from God (Col 1:21- "And although you were formerly alienated and hostile in mind, engaged in evil deeds").  
 Because of Jesus' death, resurrection, and ascension, God is in every single person.
 
-2. The father works through Jesus to turn the world back to himself. If you've seen Jesus, you've seen the Father.
+2. The Father works through Jesus to turn the world back to himself. If you've seen Jesus, you've seen the Father.
 
 3. Salvation is the process of healing that occurs when one places his trust in the already present reality of what Jesus has accomplished outside of our good works or willpower.  
-The father doesn't punish sin- sin is it's own punishment.
+The Father doesn't punish sin- sin is it's own punishment.
 Jesus entered that cancerous disease of punishment, destroyed it corporately, for all mankind, and recreated mankind to new, sin-free life in his resurrection. 
 
-##### These false, Antichrist (not hyperbole- literally opposed to Christ assumptions cascade and are intertwined,  
-##### but for simplicity, we'll categorize them as three distinct errors-
+##### These false, Antichrist (not hyperbole- literally opposed to Christ) assumptions cascade and intertwine, but for simplicity, we'll trace them to three distinct influences-
 
-1. Greek philosophy, mainly neo-platonism. This found its way into the church through Saint Augustine, among others.
+1. Greek philosophy, mainly neo-platonism. This teaches that God is separate and removed from the material realm. This found its way into the church through Saint Augustine, among others.
 
 2. Arianism- the ancient church heresy that claimed that Christ is a created being, lower and subordinate to the Father.
 
-3. Penal Substitutionary Atonement (PSA- this atonement model is based upon greek separation and an Arian notion of Jesus.  
+3. Penal Substitutionary Atonement- this atonement model is based upon greek separation and an Arian notion of Jesus.  
 It claims that God is bipolar and narcissistic similar to the two faced Roman God Janus. The scales of his justice and mercy must be balanced.  
 To "forgive" your sin, he must enact violence upon someone else. There is no free forgiveness. The blood must be spilt.
 

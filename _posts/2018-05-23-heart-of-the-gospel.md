@@ -86,38 +86,38 @@ God will never really be pleased with you because of your sin, but there are ste
 If you pull Jesus into your life and keep him around, God's punishment upon Jesus will fill his punishment quota (God can't just excuse sin, it must be punished), and he won't have to punish you with eternal flames.  
 
 ##### Notice the assumptions within this model-  
-1.) You are separated from God because of sin- an offensive action that turned God away from us.
+1. You are separated from God because of sin- an offensive action that turned God away from us.
 
-2.) Jesus doesn't really act like God or reveal the Father's intentions. Jesus tolerates sin, but the Father is more "Holy" and can't look upon sin or forgive it without punishing someone.
+2. Jesus doesn't really act like God or reveal the Father's intentions. Jesus tolerates sin, but the Father is more "Holy" and can't look upon sin or forgive it without punishing someone.
 
-3.) Salvation is being spared from punishment. You are "saved" by a work. Within evangelical circles this work (at least regarding initiation) is to "believe".
+3. Salvation is being spared from punishment. You are "saved" by a work. Within evangelical circles this work (at least regarding initiation is to "believe".
 
 This contrasts heavily with Paul's gospel where   
-1.) There is no separation- God has always been present with us.  
-The cancerous condition of sin turned _us_ away from God (Col 1:21- "And although you were formerly alienated and hostile in mind, engaged in evil deeds").  
+1. There is no separation- God has always been present with us.  
+The cancerous condition of sin turned _us_ away from God (Col 1:21- "And although you were formerly alienated and hostile in mind, engaged in evil deeds".  
 Because of Jesus' death, resurrection, and ascension, God is in every single person.
 
-2.) The father works through Jesus to turn the world back to himself. If you've seen Jesus, you've seen the Father.
+2. The father works through Jesus to turn the world back to himself. If you've seen Jesus, you've seen the Father.
 
-3.) Salvation is the process of healing that occurs when one places his trust in the already present reality of what Jesus has accomplished outside of our good works or willpower.  
+3. Salvation is the process of healing that occurs when one places his trust in the already present reality of what Jesus has accomplished outside of our good works or willpower.  
 The father doesn't punish sin- sin is it's own punishment.
 Jesus entered that cancerous disease of punishment, destroyed it corporately, for all mankind, and recreated mankind to new, sin-free life in his resurrection. 
 
-##### These false, Antichrist (not hyperbole- literally opposed to Christ) assumptions cascade and are intertwined,  
+##### These false, Antichrist (not hyperbole- literally opposed to Christ assumptions cascade and are intertwined,  
 ##### but for simplicity, we'll categorize them as three distinct errors-
 
-1.) Greek philosophy, mainly neo-platonism. This found its way into the church through Saint Augustine, among others.
+1. Greek philosophy, mainly neo-platonism. This found its way into the church through Saint Augustine, among others.
 
-2.) Arianism- the ancient church heresy that claimed that Christ is a created being, lower and subordinate to the Father.
+2. Arianism- the ancient church heresy that claimed that Christ is a created being, lower and subordinate to the Father.
 
-3.) Penal Substitutionary Atonement (PSA)- this atonement model is based upon greek separation and an Arian notion of Jesus.  
+3. Penal Substitutionary Atonement (PSA- this atonement model is based upon greek separation and an Arian notion of Jesus.  
 It claims that God is bipolar and narcissistic similar to the two faced Roman God Janus. The scales of his justice and mercy must be balanced.  
 To "forgive" your sin, he must enact violence upon someone else. There is no free forgiveness. The blood must be spilt.
 
 I hope to address these heresies later as time permits, but the New Testament gives us everything we need to to know. Remember-  
-1.) God is not distant- "Christ in you the Hope of Glory".  
-2.) Jesus perfectly reveals the character and nature of God- "If you've seen me, you've seen the father".  
-3.) The atonement didn't change God's mind about us, it changed our minds about God- "God was in Christ reconciling the world to himself".  
+1. God is not distant- "Christ in you the Hope of Glory".  
+2. Jesus perfectly reveals the character and nature of God- "If you've seen me, you've seen the father".  
+3. The atonement didn't change God's mind about us, it changed our minds about God- "God was in Christ reconciling the world to himself".  
 
 -Dan
 

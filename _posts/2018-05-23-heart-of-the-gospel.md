@@ -4,6 +4,7 @@ description: The Core of the Gospel
 header: What is the Core of the Gospel?
 categories: [faith]
 published: true
+crosspost_to_medium: true
 ---
 ## The core of the gospel and how we've missed it
 

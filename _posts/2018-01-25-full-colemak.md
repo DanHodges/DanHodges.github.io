@@ -4,6 +4,7 @@ description: Tarmak Updates
 header: Tarmak Updates- Full Colemak
 categories: [code, life]
 published: true
+crosspost_to_medium: true
 ---
 I'm happy to say that I've progressed beyond Tarmak to full Colemak.
 The learning progression went well. I used the transitional layouts for the first three steps.

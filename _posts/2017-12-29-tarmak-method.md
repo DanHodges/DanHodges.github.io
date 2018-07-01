@@ -4,6 +4,7 @@ description: The Tarmak method- my 2018 Resolution
 header: The Tarmak method- my 2018 Resolution
 categories: [code, life]
 published: true
+crosspost_to_medium: true
 ---
 I've been writing software professionally since January 2016- nearly two years from the time of this writing. Throughout this time I've observed several patterns in how I spend my time learning. Though focus of this article is my professional development, the scope of these patterns is in no way limited to that domain.
 

@@ -4,6 +4,7 @@ description: Applicative order vs normal order
 header: Applicative order vs normal order
 categories: [code]
 published: true
+crosspost_to_medium: true
 ---
 I've been working through Martin Odersky's intro to Scala course.
 

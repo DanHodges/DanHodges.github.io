@@ -6,8 +6,6 @@ categories: [code, life]
 published: true
 crosspost_to_medium: true
 ---
-I've been writing software professionally since January 2016- nearly two years from the time of this writing. Throughout this time I've observed several patterns in how I spend my time learning. Though focus of this article is my professional development, the scope of these patterns is in no way limited to that domain.
-
 Several weeks ago I decided to learn and use the Colemak keyboard layout. The reason is obvious if you've ever stopped to think about how inefficient QWERTY is. So I dove in. I typed about 10 wpm for several hours then quit. Learning was too painful.
 
 Later I discovered a transitional layout system called [Tarmak](https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/). Tarmak is a series of 5 keyboard layouts. Each layout shifts 3 keys away from their default QWERTY location. The final layout is full Colemak. The typist is able to slowly learn Colemak without ever dropping below 30ish WPM by minimizing change.

@@ -1,7 +1,7 @@
 ---
 title: Conditionally rendering React components
 description: Conditionally rendering React components
-header: Call-by-name vs call-by-value
+header: Conditionally rendering React components
 categories: [code]
 published: true
 crosspost_to_medium: true

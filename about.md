@@ -15,6 +15,7 @@ My name is Dan Hodges. This is where I post.
 ### Contact
 
 Here I am on [Github.](https://github.com/danhodges/)
+Here I am on [Twitter.](https://twitter.com/_danhodges/)
 
 ### Cool links
 Learn Colemak with[Tarmak](https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/)  
@@ -22,10 +23,4 @@ Pretty ebook version of the Wizard Book[SICP](http://sarabander.github.io/sicp/)
 and a specific version of scheme that goes along with it-[SICP Scheme](http://docs.racket-lang.org/sicp-manual/)   
 -for use with[Racket](https://racket-lang.org/).  
 The folks at Bradfield CS have curated an awesome list to[Teach yourself CS](https://teachyourselfcs.com/). 
-
-
-Amazing videos about kingdom, wrath, judgement-
-[Downside Up](https://www.youtube.com/channel/UCRIx1wRPk2HyZgl-XbeUV7A)
-
-
 

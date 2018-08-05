@@ -45,5 +45,5 @@ I hope to write up a full compare/contrast and lessons learned post-mortem when 
 
 If you want to practice your Island geography, the game's available at http://namethatisland-js.s3-website-us-east-1.amazonaws.com/ , or here in an iframe-
 
-<iframe width="560" height="800" align="center" src="http://namethatisland-js.s3-website-us-east-1.amazonaws.com/" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="800" align="center" src="https://namethatisland-js.s3-website-us-east-1.amazonaws.com/" frameborder="0" allowfullscreen></iframe>
 
